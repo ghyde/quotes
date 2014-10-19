@@ -17,6 +17,29 @@
 h1, h2, h3, h4 {
   color: #f22430;
 }
+ul.posts {
+  list-style: none;
+}
+li {
+  font-size: 20px
+}
+li.postitem {
+  float: left;
+  border-bottom: 1px solid #dadada;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+div.content {
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+div.date {
+    color: #9f9f9f;
+}
+div.subtext {
+    font-size: 16px;
+    color: #9f9f9f;
+}
 #footer {
   background-color: #fdcd60;
 }

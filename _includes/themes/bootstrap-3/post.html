@@ -1,15 +1,26 @@
-<div class="page-header">
-  <h1>{{ page.title }} {% if page.tagline %}<small>{{page.tagline}}</small>{% endif %}</h1>
+<div class="page-header" style="border-bottom: none;">
+  {% comment %}<h1>{{ page.title }} {% if page.tagline %}<small>{{page.tagline}}</small>{% endif %}</h1>{% endcomment %}
+  &nbsp;
 </div>
 
 <div class="row post-full">
   <div class="col-xs-12">
+    {% comment %}
     <div class="date">
       <span>{{ page.date | date_to_long_string }}</span>
     </div>
+    {% endcomment %}
     <div class="content">
       {{ content }}
     </div>
+    <div class="subtext" style="font-size: 20px;">&nbsp;&nbsp;&nbsp;&nbsp;--
+      {% if page.author %}{{ page.author }}{% else %}Unknown{% endif %}
+      {% if page.source %}(
+      {% if page.source contains '://' %}<a href="{{ page.source }}" style="color: #9f9f9f;">{% endif %}
+      {{ page.source }}{% if page.source contains '://' %}</a>{% endif %}
+      ){% endif %}
+    </div>
+    <br>
 
   {% unless page.categories == empty %}
     <ul class="tag_box inline">
@@ -17,7 +28,7 @@
       {% assign categories_list = page.categories %}
       {% include JB/categories_list %}
     </ul>
-  {% endunless %}  
+  {% endunless %}
 
   {% unless page.tags == empty %}
     <ul class="tag_box inline">
@@ -25,8 +36,8 @@
       {% assign tags_list = page.tags %}
       {% include JB/tags_list %}
     </ul>
-  {% endunless %}  
-  
+  {% endunless %}
+
     <hr>
     <ul class="pagination">
     {% if page.previous %}
