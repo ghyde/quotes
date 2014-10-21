@@ -8,7 +8,7 @@ tagline:
 <ul class="posts">
   {% for post in site.posts %}
     <li class="postitem">
-    {{ post.content | strip_html | truncatewords:75 }}<br>
+    {{ post.content | strip_html }}<br>
     <div class="subtext">&nbsp;&nbsp;&nbsp;&nbsp;-- {% if post.author %}{{ post.author }}
     {% elsif post.source %}{{ post.source }}{% else %}Unknown{% endif %}
     (<a href="{{ BASE_PATH }}{{ post.url }}">link</a>)</div>
