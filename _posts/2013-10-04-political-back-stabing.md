@@ -9,5 +9,5 @@ tags: [Government, Politics]
 ---
 {% include JB/setup %}
 
-"In politics, the only way to know who's stabbing you in the back is to see
-their reflection in the eyes of the person stabbing you from the back."
+In politics, the only way to know who's stabbing you in the back is to see
+their reflection in the eyes of the person stabbing you from the back.

@@ -9,4 +9,4 @@ tags: [Computer, Programming]
 ---
 {% include JB/setup %}
 
-"Computer programs are the most complex things that humans make."
+Computer programs are the most complex things that humans make.

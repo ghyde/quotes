@@ -9,4 +9,4 @@ tags: [Computer, Programming]
 ---
 {% include JB/setup %}
 
-"Machines should work. People should think."
+Machines should work. People should think.

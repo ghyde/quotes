@@ -9,4 +9,4 @@ tags: [Military]
 ---
 {% include JB/setup %}
 
-"May the dogs of Fallujah feast hearty on the remains of our fallen enemies."
+May the dogs of Fallujah feast hearty on the remains of our fallen enemies.

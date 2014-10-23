@@ -9,4 +9,4 @@ tags: [TV]
 ---
 {% include JB/setup %}
 
-"Never half-ass two things. Whole-ass one thing."
+Never half-ass two things. Whole-ass one thing.
