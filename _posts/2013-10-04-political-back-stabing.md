@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Political Back Stabbing"
-author: Kevin Dutton (quoting a U.K. politician)
+author: Kevin Dutton, quoting a U.K. politician
 source: http://www.youtube.com/watch?v=PDVvYzEdp_s
 description: ""
 category:
-tags: []
+tags: [Government, Politics]
 ---
 {% include JB/setup %}
 
