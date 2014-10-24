@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Root Privs"
-author:
-source:
+author: Unknown
+source: https://twitter.com/climagic/status/413491474693488642
 description: ""
 category:
 tags: [Computer]
