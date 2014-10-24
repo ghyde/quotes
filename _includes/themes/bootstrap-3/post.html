@@ -16,7 +16,7 @@
     <div class="subtext" style="font-size: 20px;">&nbsp;&nbsp;&nbsp;&nbsp;--
       {% if page.author %}{{ page.author }}{% else %}Unknown{% endif %}
       {% if page.source %}(
-      {% if page.source contains '://' %}<a href="{{ page.source }}" style="color: #428bca;">source</a>
+      {% if page.source contains '://' %}<a href="{{ page.source }}" target="_blank" style="color: #428bca;">source</a>
       {% else %}{{ page.source }}{% endif %}
       ){% endif %}
     </div>
