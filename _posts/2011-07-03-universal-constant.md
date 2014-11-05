@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Universal Constant"
-author: Dr. McCoy
-source: Star Trek IV: The Voyage Home
+author: "Dr. McCoy"
+source: "Star Trek IV: The Voyage Home"
 description: ""
 category:
 tags: [Movies]

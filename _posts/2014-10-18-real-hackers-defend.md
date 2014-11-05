@@ -5,7 +5,7 @@ author: Info Security Jerk
 source: https://twitter.com/infosecjerk/status/523583219187601408
 description: ""
 category:
-tags: [Computer, Hacking]
+tags: [Computer, Security]
 ---
 {% include JB/setup %}
 

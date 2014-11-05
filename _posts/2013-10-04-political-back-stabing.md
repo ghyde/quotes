@@ -5,7 +5,7 @@ author: Kevin Dutton, quoting a U.K. politician
 source: http://www.youtube.com/watch?v=PDVvYzEdp_s
 description: ""
 category:
-tags: [Government, Politics]
+tags: [Government]
 ---
 {% include JB/setup %}
 

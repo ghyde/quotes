@@ -5,7 +5,7 @@ author: Will Rogers
 source: The Best of Will Rogers
 description: ""
 category:
-tags: []
+tags: [Government]
 ---
 {% include JB/setup %}
 

@@ -5,7 +5,7 @@ author: Robert Heinlein
 source:
 description: ""
 category:
-tags: []
+tags: [Government, Military]
 ---
 {% include JB/setup %}
 
