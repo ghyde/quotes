@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Public Teaching"
+title: "Preach the Truth"
 author: Wilford Woodruff
 source: "Teachings of Presidents of the Church: Wilford Woodruff, p.61"
 description: ""
