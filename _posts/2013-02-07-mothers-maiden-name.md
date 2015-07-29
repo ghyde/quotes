@@ -5,7 +5,7 @@ author: Steve Werby
 source: https://twitter.com/stevewerby/status/299650130112573440
 description: ""
 category:
-tags: [Computer]
+tags: [Computer, Security]
 ---
 {% include JB/setup %}
 
