@@ -1,13 +1,9 @@
 ---
-layout: post
 title: "Id Software Principles"
 author: John Romero
 source: https://youtu.be/KFziBfvAFnM
-description: ""
-category:
 tags: [Programming]
 ---
-{% include JB/setup %}
 
 1. No prototypes. Just make the game. Polish as you go. Don't depend on polish happening later. Always maintain constantly shippable code.
 2. It's incredibly important that your game can always be run by your team. Bulletproof your engine by providing defaults upon load failure.

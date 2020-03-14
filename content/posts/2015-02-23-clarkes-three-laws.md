@@ -1,13 +1,9 @@
 ---
-layout: post
 title: "Clarke's Three Laws"
 author: "Arthur C. Clarke"
 source: http://en.wikipedia.org/wiki/Clarke's_three_laws
-description: ""
-category:
 tags: [Science]
 ---
-{% include JB/setup %}
 
 **Clarke's Three Laws:**
 

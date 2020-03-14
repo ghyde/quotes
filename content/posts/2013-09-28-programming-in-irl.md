@@ -1,13 +1,9 @@
 ---
-layout: post
 title: "Programming In IRL"
 author: Rick Fillion
 source: https://twitter.com/rickfillion/status/384003738463395840
-description: ""
-category:
 tags: [Computer, Programming]
 ---
-{% include JB/setup %}
 
 Programming IRL:<br>
 "ETA for an apple pie?"<br>

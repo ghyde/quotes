@@ -1,13 +1,9 @@
 ---
-layout: post
 title: "Commander In Chief"
 author: Napoleon
 source: "Military Maxims and Thought"
-description: ""
-category:
 tags: [Military]
 ---
-{% include JB/setup %}
 
 It follows that any commander in chief who undertakes to carry out a plan
 which he considers defective is at fault; he must put forth his reasons,
