@@ -1,0 +1,9 @@
+---
+title: "Reality"
+date: 2015-07-01
+tags: []
+---
+
+I'm not crazy about reality, but it's still the only place to get a decent meal.
+
+-- Groucho Marx (Ready Player One)

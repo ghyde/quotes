@@ -1,0 +1,9 @@
+---
+title: "Fanatic"
+date: 2012-07-01
+tags: []
+---
+
+A fanatic is one who can't change his mind and won't change the subject.
+
+-- Winston Churchill
