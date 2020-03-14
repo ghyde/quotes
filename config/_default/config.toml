@@ -1,0 +1,4 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Favorite Quotes"
+ignoreFiles = ["_drafts$"]
