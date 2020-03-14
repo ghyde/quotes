@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""
+title: "Women Equality"
 author: Marilyn Monroe
 source:
 description: ""
