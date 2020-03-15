@@ -1,6 +1,5 @@
 ---
 title: "Perfection"
-date: 2006-09-19
 tags: []
 ---
 

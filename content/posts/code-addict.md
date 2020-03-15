@@ -1,6 +1,5 @@
 ---
 title: "Code Addict"
-date: 2012-05-15
 tags: [Programming]
 ---
 

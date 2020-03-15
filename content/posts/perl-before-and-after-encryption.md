@@ -1,6 +1,5 @@
 ---
 title: "Perl Before and After Encryption"
-date: 2011-03-15
 tags: [Programming]
 ---
 

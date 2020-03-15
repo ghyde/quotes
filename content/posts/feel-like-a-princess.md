@@ -1,6 +1,5 @@
 ---
 title: "Feel Like A Princess"
-date: 2013-05-23
 tags: []
 ---
 

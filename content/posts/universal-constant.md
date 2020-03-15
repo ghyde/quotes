@@ -1,6 +1,5 @@
 ---
 title: "Universal Constant"
-date: 2011-07-03
 tags: [Movies]
 ---
 

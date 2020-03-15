@@ -1,6 +1,5 @@
 ---
 title: "Solving Problems"
-date: 2016-03-23
 tags: [Programming]
 ---
 

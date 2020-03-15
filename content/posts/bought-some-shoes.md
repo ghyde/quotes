@@ -1,6 +1,5 @@
 ---
 title: "Bought Some Shoes From A Drug Dealer"
-date: 2015-08-04
 tags: [Comedy]
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: "Missionary Work & Home Teaching"
-date: 2007-04-30
 tags: [Religion]
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: "Schneier's Law"
-date: 2013-05-24
 tags: [Security]
 ---
 

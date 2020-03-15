@@ -1,6 +1,5 @@
 ---
 title: "Who's Stabbing You In The Back"
-date: 2013-07-24
 tags: [Government]
 ---
 

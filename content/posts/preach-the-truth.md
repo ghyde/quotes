@@ -1,6 +1,5 @@
 ---
 title: "Preach the Truth"
-date: 2006-03-19
 tags: [Religion]
 ---
 

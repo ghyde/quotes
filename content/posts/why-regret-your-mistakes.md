@@ -1,6 +1,5 @@
 ---
 title: "Why Regret Your Mistakes?"
-date: 2005-09-18
 tags: []
 ---
 

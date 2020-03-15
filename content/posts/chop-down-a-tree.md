@@ -1,6 +1,5 @@
 ---
 title: "Eight Hours To Chop Down A Tree"
-date: 2012-07-03
 tags: []
 ---
 

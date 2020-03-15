@@ -1,6 +1,5 @@
 ---
 title: "Mansplain"
-date: 2014-10-24
 tags: []
 ---
 

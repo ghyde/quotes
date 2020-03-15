@@ -1,6 +1,5 @@
 ---
 title: "A Parang Is Like a Small Machete"
-date: 2013-05-01
 tags: []
 ---
 

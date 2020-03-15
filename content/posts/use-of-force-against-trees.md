@@ -1,6 +1,5 @@
 ---
 title: "Until The Learn to Respect Us…"
-date: 2013-05-01
 tags: []
 ---
 

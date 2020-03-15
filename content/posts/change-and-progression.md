@@ -1,6 +1,5 @@
 ---
 title: "Change And Progression"
-date: 2013-06-20
 tags: []
 ---
 

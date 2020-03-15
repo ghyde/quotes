@@ -1,6 +1,5 @@
 ---
 title: "Successful Technology"
-date: 2013-07-26
 tags: [Technology]
 ---
 

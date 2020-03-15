@@ -1,6 +1,5 @@
 ---
 title: "Someone Will Do It"
-date: 2014-10-08
 tags: []
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: "Continual Uptime"
-date: 2014-12-04
 tags: [Computer]
 ---
 

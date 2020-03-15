@@ -1,6 +1,5 @@
 ---
 title: "Warrior In A Garden"
-date: 2015-12-28
 tags: [Military]
 ---
 

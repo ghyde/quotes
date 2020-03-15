@@ -1,6 +1,5 @@
 ---
 title: "Remy’s Law of Enterprise Software"
-date: 2015-11-19
 tags: [Computer]
 ---
 

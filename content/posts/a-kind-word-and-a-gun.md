@@ -1,6 +1,5 @@
 ---
 title: "A Kind Word And A Gun"
-date: 2011-07-04
 tags: []
 ---
 

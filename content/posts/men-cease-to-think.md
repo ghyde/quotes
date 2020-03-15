@@ -1,6 +1,5 @@
 ---
 title: "Men Cease To Think"
-date: 2013-05-02
 tags: []
 ---
 

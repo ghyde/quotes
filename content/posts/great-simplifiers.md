@@ -1,6 +1,5 @@
 ---
 title: "Great Simplifiers"
-date: 2015-02-01
 tags: [Military]
 ---
 

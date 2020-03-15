@@ -1,6 +1,5 @@
 ---
 title: "The Face of a Coward"
-date: 2015-03-15
 tags: [TV]
 ---
 

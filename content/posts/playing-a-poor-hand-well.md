@@ -1,6 +1,5 @@
 ---
 title: "Playing A Poor Hand Well"
-date: 2013-07-25
 tags: []
 ---
 

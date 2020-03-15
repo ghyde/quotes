@@ -1,6 +1,5 @@
 ---
 title: "Commander In Chief"
-date: 2014-10-07
 tags: [Military]
 ---
 

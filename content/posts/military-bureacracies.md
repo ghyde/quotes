@@ -1,6 +1,5 @@
 ---
 title: "Military Bureaucracies"
-date: 2013-05-25
 tags: [Government, Military]
 ---
 

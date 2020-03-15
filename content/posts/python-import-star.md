@@ -1,6 +1,5 @@
 ---
 title: "Python - \"import *\""
-date: 2011-03-21
 tags: [Programming]
 ---
 

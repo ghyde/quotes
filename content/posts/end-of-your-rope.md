@@ -1,6 +1,5 @@
 ---
 title: "When You Get To The End Of Your Rope…"
-date: 2012-07-04
 tags: [Government]
 ---
 

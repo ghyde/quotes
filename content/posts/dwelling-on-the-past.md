@@ -1,6 +1,5 @@
 ---
 title: "Dwelling on the Past"
-date: 2006-03-01
 tags: []
 ---
 

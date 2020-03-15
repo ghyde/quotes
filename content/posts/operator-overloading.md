@@ -1,6 +1,5 @@
 ---
 title: "Guns Don't Kill People, Operator Overloading Does"
-date: 2012-05-14
 tags: [Programming]
 ---
 

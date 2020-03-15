@@ -1,6 +1,5 @@
 ---
 title: "Become Managers"
-date: 2012-05-02
 tags: [Programming]
 ---
 

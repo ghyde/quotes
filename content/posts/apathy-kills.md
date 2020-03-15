@@ -1,6 +1,5 @@
 ---
 title: "Apathy Kills"
-date: 2014-10-18
 tags: [Comedy, TV]
 ---
 

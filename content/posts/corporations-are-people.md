@@ -1,6 +1,5 @@
 ---
 title: "Corporations Are People"
-date: 2011-11-08
 tags: [Government]
 ---
 

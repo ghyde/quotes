@@ -1,6 +1,5 @@
 ---
 title: "Keeping Their Own Arms"
-date: 2013-05-04
 tags: [Government]
 ---
 

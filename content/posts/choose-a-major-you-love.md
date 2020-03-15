@@ -1,6 +1,5 @@
 ---
 title: "Choose A Major You Love"
-date: 2015-09-21
 tags: []
 ---
 

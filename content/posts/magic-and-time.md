@@ -1,6 +1,5 @@
 ---
 title: "Magic and Time"
-date: 2014-10-14
 tags: []
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: "Doubt And Faith"
-date: 2013-05-08
 tags: [Religion]
 ---
 

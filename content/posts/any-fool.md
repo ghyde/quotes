@@ -1,6 +1,5 @@
 ---
 title: "Any Fool Can Write Code That a Computer Can Understand"
-date: 2015-10-28
 tags: [Computer]
 ---
 

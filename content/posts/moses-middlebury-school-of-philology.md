@@ -1,6 +1,5 @@
 ---
 title: "Moses Middlebury School Of Philology"
-date: 2011-11-03
 tags: []
 ---
 

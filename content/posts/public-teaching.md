@@ -1,6 +1,5 @@
 ---
 title: "Public Teaching"
-date: 2006-03-19
 tags: [Religion]
 ---
 

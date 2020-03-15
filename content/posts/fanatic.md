@@ -1,6 +1,5 @@
 ---
 title: "Fanatic"
-date: 2012-07-01
 tags: []
 ---
 

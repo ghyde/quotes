@@ -1,6 +1,5 @@
 ---
 title: "A Statesman"
-date: 2011-07-01
 tags: [Government]
 ---
 

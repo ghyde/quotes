@@ -1,6 +1,5 @@
 ---
 title: "Crystals Are Like People"
-date: 2015-01-03
 tags: []
 ---
 

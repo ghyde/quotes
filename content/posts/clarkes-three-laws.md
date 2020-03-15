@@ -1,6 +1,5 @@
 ---
 title: "Clarke's Three Laws"
-date: 2015-02-23
 tags: [Science]
 ---
 

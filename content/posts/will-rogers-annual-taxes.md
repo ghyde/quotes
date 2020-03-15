@@ -1,6 +1,5 @@
 ---
 title: "Annual Taxes"
-date: 2011-03-31
 tags: [Government]
 ---
 

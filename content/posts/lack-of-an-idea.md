@@ -1,6 +1,5 @@
 ---
 title: "Lack Of An Idea"
-date: 2014-10-09
 tags: []
 ---
 

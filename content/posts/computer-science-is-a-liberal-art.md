@@ -1,6 +1,5 @@
 ---
 title: "Computer Science Is A Liberal Art"
-date: 2016-03-23
 tags: [Computer, Programming]
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: "Dogs of Fallujah"
-date: 2014-10-17
 tags: [Military]
 ---
 

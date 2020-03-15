@@ -1,6 +1,5 @@
 ---
 title: "Cruel, Clever Cat"
-date: 2015-01-15
 tags: [Poetry]
 ---
 

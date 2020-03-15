@@ -1,6 +1,5 @@
 ---
 title: "Coincidence"
-date: 2015-01-03
 tags: []
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: "The Quality Of Programmers"
-date: 2012-05-16
 tags: [Programming]
 ---
 

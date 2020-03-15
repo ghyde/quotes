@@ -1,6 +1,5 @@
 ---
 title: "What Would Jesus Do?"
-date: 2006-10-14
 tags: [Religion]
 ---
 

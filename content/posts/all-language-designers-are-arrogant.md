@@ -1,6 +1,5 @@
 ---
 title: "All Language Designers Are Arrogant"
-date: 2014-10-11
 tags: [Programming]
 ---
 

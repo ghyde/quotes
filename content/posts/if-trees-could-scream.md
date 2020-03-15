@@ -1,6 +1,5 @@
 ---
 title: "If Trees Could Scream"
-date: 2014-11-11
 tags: [Comedy]
 ---
 

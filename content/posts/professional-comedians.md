@@ -1,6 +1,5 @@
 ---
 title: "Professional Comedians"
-date: 2015-01-03
 tags: [Comedy]
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: "Debugging Detective"
-date: 2013-11-09
 tags: [Computer, Programming]
 ---
 

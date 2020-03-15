@@ -1,6 +1,5 @@
 ---
 title: "The Sooner You Start To Code…"
-date: 2012-05-13
 tags: [Programming]
 ---
 

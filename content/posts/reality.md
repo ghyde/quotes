@@ -1,6 +1,5 @@
 ---
 title: "Reality"
-date: 2015-07-01
 tags: []
 ---
 

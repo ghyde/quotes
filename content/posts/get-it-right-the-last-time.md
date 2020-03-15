@@ -1,6 +1,5 @@
 ---
 title: "Get It Right The Last Time"
-date: 2012-07-05
 tags: []
 ---
 

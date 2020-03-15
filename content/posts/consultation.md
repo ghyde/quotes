@@ -1,6 +1,5 @@
 ---
 title: "Consultation"
-date: 2013-05-15
 tags: []
 ---
 

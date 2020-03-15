@@ -1,6 +1,5 @@
 ---
 title: "Every Man Is A Fool"
-date: 2011-07-02
 tags: []
 ---
 

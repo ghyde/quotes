@@ -1,6 +1,5 @@
 ---
 title: "Authors Like To Torture People"
-date: 2011-06-02
 tags: []
 ---
 

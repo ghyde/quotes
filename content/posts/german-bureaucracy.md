@@ -1,6 +1,5 @@
 ---
 title: "German Bureaucracy"
-date: 2013-10-08
 tags: [Computer]
 ---
 

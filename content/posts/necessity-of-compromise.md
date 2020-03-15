@@ -1,6 +1,5 @@
 ---
 title: "Necessity Of Compromise"
-date: 2013-02-08
 tags: []
 ---
 

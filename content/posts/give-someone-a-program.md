@@ -1,6 +1,5 @@
 ---
 title: "Give Someone A Program"
-date: 2012-06-19
 tags: [Programming]
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: "Cost of Freedom"
-date: 2014-10-12
 tags: [Military]
 ---
 

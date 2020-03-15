@@ -1,6 +1,5 @@
 ---
 title: "Root Privs"
-date: 2013-12-18
 tags: [Computer]
 ---
 

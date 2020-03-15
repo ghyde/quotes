@@ -1,6 +1,5 @@
 ---
 title: "Great Minds"
-date: 2006-02-15
 tags: []
 ---
 

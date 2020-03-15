@@ -1,6 +1,5 @@
 ---
 title: "Fathers"
-date: 2006-10-14
 tags: [Religion]
 ---
 

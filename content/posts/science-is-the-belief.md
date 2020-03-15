@@ -1,6 +1,5 @@
 ---
 title: "Science Is The Belief…"
-date: 2015-01-03
 tags: [Science]
 ---
 

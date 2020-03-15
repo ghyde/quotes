@@ -1,6 +1,5 @@
 ---
 title: "Algorithms"
-date: 2019-04-17
 tags: [Computer, Programming]
 ---
 

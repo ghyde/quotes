@@ -1,6 +1,5 @@
 ---
 title: "Mother's Maiden Name"
-date: 2013-02-07
 tags: [Computer, Security]
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: "Let Your Adversity Count"
-date: 2006-04-27
 tags: [Religion]
 ---
 

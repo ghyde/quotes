@@ -1,6 +1,5 @@
 ---
 title: "Id Software Principles"
-date: 2019-07-01
 tags: [Programming]
 ---
 

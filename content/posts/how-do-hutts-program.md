@@ -1,6 +1,5 @@
 ---
 title: "How do Hutts Program?"
-date: 2014-10-17
 tags: [Comedy, Programming]
 ---
 

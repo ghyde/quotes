@@ -1,6 +1,5 @@
 ---
 title: "Solid State Drive"
-date: 2014-10-24
 tags: [Computer]
 ---
 

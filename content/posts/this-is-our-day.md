@@ -1,6 +1,5 @@
 ---
 title: "This Is Our Day"
-date: 1999-04-03
 tags: [Religion, Technology]
 ---
 

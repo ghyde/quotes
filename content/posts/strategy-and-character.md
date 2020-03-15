@@ -1,6 +1,5 @@
 ---
 title: "Strategy And Character"
-date: 2015-02-08
 tags: [Military]
 ---
 

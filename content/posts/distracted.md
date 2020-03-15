@@ -1,6 +1,5 @@
 ---
 title: "Distracted"
-date: 2011-11-01
 tags: []
 ---
 

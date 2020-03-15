@@ -1,6 +1,5 @@
 ---
 title: "The Gospel"
-date: 2013-02-09
 tags: [Religion]
 ---
 

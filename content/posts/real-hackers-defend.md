@@ -1,6 +1,5 @@
 ---
 title: "Real Hackers Defend"
-date: 2014-10-18
 tags: [Computer, Security]
 ---
 

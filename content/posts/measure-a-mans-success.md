@@ -1,6 +1,5 @@
 ---
 title: "Measure A Man's Success"
-date: 2015-03-29
 tags: [Military]
 ---
 

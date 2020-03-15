@@ -1,6 +1,5 @@
 ---
 title: "Programming In IRL"
-date: 2013-09-28
 tags: [Computer, Programming]
 ---
 

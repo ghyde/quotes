@@ -1,6 +1,5 @@
 ---
 title: "Passion"
-date: 2019-07-01
 tags: []
 ---
 

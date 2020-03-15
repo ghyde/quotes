@@ -1,6 +1,5 @@
 ---
 title: "Creator of Universes"
-date: 2012-05-04
 tags: [Programming]
 ---
 

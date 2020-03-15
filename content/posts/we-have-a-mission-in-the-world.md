@@ -1,6 +1,5 @@
 ---
 title: "We Have A Mission In The World"
-date: 2007-04-30
 tags: [Religion]
 ---
 

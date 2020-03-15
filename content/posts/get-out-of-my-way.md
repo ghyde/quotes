@@ -1,6 +1,5 @@
 ---
 title: "Get Out Of My Way"
-date: 2014-08-22
 tags: [Military]
 ---
 

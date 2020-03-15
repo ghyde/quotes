@@ -1,6 +1,5 @@
 ---
 title: "Motivation"
-date: 2015-02-22
 tags: [Military]
 ---
 

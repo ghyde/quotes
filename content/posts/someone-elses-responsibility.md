@@ -1,6 +1,5 @@
 ---
 title: "Someone Else's Responsibility"
-date: 2012-02-15
 tags: [Programming]
 ---
 

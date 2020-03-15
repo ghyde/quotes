@@ -1,6 +1,5 @@
 ---
 title: "Art Form That Fights Back"
-date: 2012-05-08
 tags: [Programming]
 ---
 

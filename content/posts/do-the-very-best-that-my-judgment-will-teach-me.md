@@ -1,6 +1,5 @@
 ---
 title: "Do The Very Best That My Judgment Will Teach Me"
-date: 2007-04-30
 tags: [Religion]
 ---
 

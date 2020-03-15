@@ -1,6 +1,5 @@
 ---
 title: "Machines & People"
-date: 2013-10-05
 tags: [Computer, Programming]
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: "Tosh.0 on America"
-date: 2011-02-01
 tags: [TV]
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: "Happiness Is Like A Butterfly"
-date: 2014-10-28
 tags: []
 ---
 

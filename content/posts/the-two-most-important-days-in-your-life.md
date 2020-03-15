@@ -1,6 +1,5 @@
 ---
 title: "The Two Most Important Days In Your Life"
-date: 2014-12-22
 tags: []
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: "Liberty And Security"
-date: 2011-11-07
 tags: [Government]
 ---
 

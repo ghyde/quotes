@@ -1,6 +1,5 @@
 ---
 title: "A Soldier And A Father"
-date: 2006-10-14
 tags: [Military]
 ---
 

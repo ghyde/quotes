@@ -1,6 +1,5 @@
 ---
 title: "If The Devil Says You Cannot Pray"
-date: 2007-04-30
 tags: [Religion]
 ---
 
