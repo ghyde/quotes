@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Movies on Favorite Quotes</title>
+    <link>/tags/movies/</link>
+    <description>Recent content in Movies on Favorite Quotes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/tags/movies/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Universal Constant</title>
+      <link>/posts/universal-constant/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/universal-constant/</guid>
+      <description>The bureaucratic mentality is the only constant in the universe.
+&amp;ndash; Dr. McCoy (&amp;ldquo;Star Trek IV: The Voyage Home&amp;rdquo;)</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technology on Favorite Quotes</title>
+    <link>/tags/technology/</link>
+    <description>Recent content in Technology on Favorite Quotes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Successful Technology</title>
+      <link>/posts/successful-technology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/successful-technology/</guid>
+      <description>For a successful technology, reality must take precedence over public relations, for nature cannot be fooled.
+&amp;ndash; Richard Feynman (Rogers Commission Report (1986))</description>
+    </item>
+    
+    <item>
+      <title>The Greatest Obstacle To Discovery</title>
+      <link>/posts/greatest-obstacle-to-discovery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/greatest-obstacle-to-discovery/</guid>
+      <description>The greatest obstacle to discovery is not ignorance &amp;ndash; it is the illusion of knowledge.
+&amp;ndash; Daniel J. Boorstin</description>
+    </item>
+    
+    <item>
+      <title>This Is Our Day</title>
+      <link>/posts/this-is-our-day/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/this-is-our-day/</guid>
+      <description>I believe that God has opened up these treasures of intelligence [technology] to enhance his purposes on the earth.
+&amp;ndash; James E. Faust (source)</description>
+    </item>
+    
+  </channel>
+</rss>

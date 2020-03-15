@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Security on Favorite Quotes</title>
+    <link>/tags/security/</link>
+    <description>Recent content in Security on Favorite Quotes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mother&#39;s Maiden Name</title>
+      <link>/posts/mothers-maiden-name/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/mothers-maiden-name/</guid>
+      <description>Credit card company: What&amp;rsquo;s your mother&amp;rsquo;s maiden name?
+Me: Donkey Kong Bumper Boat.
+Them: Uh, yes. What?
+Me: I&amp;rsquo;m in security.&amp;rdquo;
+&amp;ndash; Steve Werby (source)</description>
+    </item>
+    
+    <item>
+      <title>Real Hackers Defend</title>
+      <link>/posts/real-hackers-defend/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/real-hackers-defend/</guid>
+      <description>Real hackers defend. Anyone can use a tool, exploit a vuln, and phish a meatpuppet. Offense is like Candy Crush. Defense is like chess.
+&amp;ndash; Info Security Jerk (source)</description>
+    </item>
+    
+    <item>
+      <title>Schneier&#39;s Law</title>
+      <link>/posts/schneiers-law/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/schneiers-law/</guid>
+      <description>Schneier&amp;rsquo;s Law:
+ Any person can invent a security system so clever that he or she can&amp;rsquo;t imagine a way of breaking it.
+&amp;ndash; Bruce Schneier</description>
+    </item>
+    
+  </channel>
+</rss>

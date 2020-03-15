@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TV on Favorite Quotes</title>
+    <link>/tags/tv/</link>
+    <description>Recent content in TV on Favorite Quotes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/tags/tv/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Apathy Kills</title>
+      <link>/posts/apathy-kills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/apathy-kills/</guid>
+      <description>Meredith: &amp;ldquo;Apathy kills, Hank.&amp;rdquo;
+Hank: &amp;ldquo;I don&amp;rsquo;t care.&amp;rdquo;
+&amp;ldquo;Californication&amp;rdquo; (Season 1, Episode 4)</description>
+    </item>
+    
+    <item>
+      <title>Never Half-Ass Two Things</title>
+      <link>/posts/never-half-ass-two-things/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/never-half-ass-two-things/</guid>
+      <description>Never half-ass two things. Whole-ass one thing.
+&amp;ndash; Ron Swanson (&amp;ldquo;Parks and Recreation&amp;rdquo;)</description>
+    </item>
+    
+    <item>
+      <title>The Face of a Coward</title>
+      <link>/posts/the-face-of-a-coward/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/the-face-of-a-coward/</guid>
+      <description>What is the face of a coward? The back of his head as he runs from battle.
+&amp;ndash; Frank Underwood (&amp;ldquo;House of Cards&amp;rdquo;, Season 3, Episode 3)</description>
+    </item>
+    
+    <item>
+      <title>Tosh.0 on America</title>
+      <link>/posts/tosh.0-america/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/tosh.0-america/</guid>
+      <description>We may catch a lot of flak from other countries. But when you&amp;rsquo;ve been kicking ass and taking names since 1776, hater&amp;rsquo;s gonna hate.
+&amp;ndash; Tosh.0 (01-Feb-2011, Comedy Central)</description>
+    </item>
+    
+  </channel>
+</rss>
