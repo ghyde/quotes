@@ -4,5 +4,8 @@ title = "Favorite Quotes"
 ignoreFiles = ["_drafts$"]
 theme = "binario"
 
+[Params]
+  copyright = "Garrett Hyde"
+
 [Params.Entry]
   meta = ["date"]
