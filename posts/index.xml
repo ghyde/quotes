@@ -5,11 +5,7 @@
     <link>/posts/</link>
     <description>Recent content on Favorite Quotes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Kind Word And A Gun</title>
       <link>/posts/a-kind-word-and-a-gun/</link>
@@ -564,7 +560,7 @@ We might, if they screamed all the time, for no good reason.
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/posts/if-you-dont-know-what-linux-is/</guid>
-      <description>If you don&amp;rsquo;t know what Linux is, Linux is a bit like punching yourself in the face. When someone says &amp;ldquo;Why are you punching yourself in the face?&amp;quot;, you go &amp;ldquo;Well it&amp;rsquo;s free.&amp;rdquo;
+      <description>If you don&amp;rsquo;t know what Linux is, Linux is a bit like punching yourself in the face. When someone says &amp;ldquo;Why are you punching yourself in the face?&amp;rdquo;, you go &amp;ldquo;Well it&amp;rsquo;s free.&amp;rdquo;
 &amp;ndash; Matt Parker (source)</description>
     </item>
     
@@ -697,7 +693,7 @@ We might, if they screamed all the time, for no good reason.
       <description>Credit card company: What&amp;rsquo;s your mother&amp;rsquo;s maiden name?
 Me: Donkey Kong Bumper Boat.
 Them: Uh, yes. What?
-Me: I&amp;rsquo;m in security.&amp;rdquo;
+Me: I&amp;rsquo;m in security.&amp;quot;
 &amp;ndash; Steve Werby (source)</description>
     </item>
     
@@ -938,7 +934,7 @@ Me: I&amp;rsquo;m in security.&amp;rdquo;
     </item>
     
     <item>
-      <title>Spects</title>
+      <title>Specs</title>
       <link>/posts/specs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       

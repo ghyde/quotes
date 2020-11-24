@@ -5,11 +5,7 @@
     <link>/tags/movies/</link>
     <description>Recent content in Movies on Favorite Quotes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="/tags/movies/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="/tags/movies/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Universal Constant</title>
       <link>/posts/universal-constant/</link>
