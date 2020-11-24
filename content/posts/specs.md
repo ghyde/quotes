@@ -1,5 +1,5 @@
 ---
-title: "Spects"
+title: "Specs"
 tags: [Programming]
 ---
 
