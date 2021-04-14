@@ -180,6 +180,16 @@ Jabba-script
     </item>
     
     <item>
+      <title>Software Complexity</title>
+      <link>/posts/software-complexity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/software-complexity/</guid>
+      <description>So much complexity in software comes from trying to make one thing do two things.
+&amp;ndash; Ryan Singer (source)</description>
+    </item>
+    
+    <item>
       <title>Solving Problems</title>
       <link>/posts/solving-problems/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
