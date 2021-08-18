@@ -1,169 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Computer on Favorite Quotes</title>
-    <link>/tags/computer/</link>
-    <description>Recent content in Computer on Favorite Quotes</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/tags/computer/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Algorithms</title>
-      <link>/posts/algorithms/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/algorithms/</guid>
-      <description>I&amp;rsquo;m very aware that the word &amp;ldquo;algorithm&amp;rdquo; makes about 85% of people want to gouge their own eyes, right? But I mentioned this at a tech conference that I was at to someone, and they agreed with me. But they added that it makes the remaining 15% of people mildly aroused.
-&amp;ndash; Hannah Fry (source)</description>
-    </item>
-    
-    <item>
-      <title>Any Fool Can Write Code That a Computer Can Understand</title>
-      <link>/posts/any-fool/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/any-fool/</guid>
-      <description>Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
-&amp;ndash; Martin Fowler (source)</description>
-    </item>
-    
-    <item>
-      <title>Computer Programs</title>
-      <link>/posts/computer-programs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/computer-programs/</guid>
-      <description>Computer programs are the most complex things that humans make.
-&amp;ndash; Douglas Crockford (source)</description>
-    </item>
-    
-    <item>
-      <title>Computer Science Is A Liberal Art</title>
-      <link>/posts/computer-science-is-a-liberal-art/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/computer-science-is-a-liberal-art/</guid>
-      <description>Learning to program teaches you how to think. Computer science is a liberal art.
-&amp;ndash; Steve Jobs (source)</description>
-    </item>
-    
-    <item>
-      <title>Continual Uptime</title>
-      <link>/posts/continual-uptime/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/continual-uptime/</guid>
-      <description>When disaster finally did strike, it didn’t come in the form of fraudulent transaction. The donut box fell over, late on Friday night. Roland had to call Roy, who had to commute into the office to stand the box back up. After doing some root cause analysis, Roy also taped the box to a server rack, thus guaranteeing continual uptime.
-&amp;ndash; Charles Robinson (source)</description>
-    </item>
-    
-    <item>
-      <title>Debugging Detective</title>
-      <link>/posts/debugging-detective/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/debugging-detective/</guid>
-      <description>Debugging is like being the detective in a crime movie where you are also the murderer.
-&amp;ndash; Filipe Fortes (source)</description>
-    </item>
-    
-    <item>
-      <title>German Bureaucracy</title>
-      <link>/posts/german-bureaucracy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/german-bureaucracy/</guid>
-      <description>&amp;ldquo;I wonder,&amp;rdquo; Gertrude said, as the workers left with the IT clock, &amp;ldquo;if Thomas Jefferson, that American president, had as much trouble keeping his clocks in sync.&amp;rdquo;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Computer on Favorite Quotes</title><link>/tags/computer/</link><description>Recent content in Computer on Favorite Quotes</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="/tags/computer/index.xml" rel="self" type="application/rss+xml"/><item><title>Algorithms</title><link>/posts/algorithms/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/posts/algorithms/</guid><description>I&amp;rsquo;m very aware that the word &amp;ldquo;algorithm&amp;rdquo; makes about 85% of people want to gouge their own eyes, right? But I mentioned this at a tech conference that I was at to someone, and they agreed with me. But they added that it makes the remaining 15% of people mildly aroused.
+&amp;ndash; Hannah Fry (source)</description></item><item><title>Any Fool Can Write Code That a Computer Can Understand</title><link>/posts/any-fool/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/posts/any-fool/</guid><description>Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
+&amp;ndash; Martin Fowler (source)</description></item><item><title>Computer Programs</title><link>/posts/computer-programs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/posts/computer-programs/</guid><description>Computer programs are the most complex things that humans make.
+&amp;ndash; Douglas Crockford (source)</description></item><item><title>Computer Science Is A Liberal Art</title><link>/posts/computer-science-is-a-liberal-art/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/posts/computer-science-is-a-liberal-art/</guid><description>Learning to program teaches you how to think. Computer science is a liberal art.
+&amp;ndash; Steve Jobs (source)</description></item><item><title>Continual Uptime</title><link>/posts/continual-uptime/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/posts/continual-uptime/</guid><description>When disaster finally did strike, it didn’t come in the form of fraudulent transaction. The donut box fell over, late on Friday night. Roland had to call Roy, who had to commute into the office to stand the box back up. After doing some root cause analysis, Roy also taped the box to a server rack, thus guaranteeing continual uptime.
+&amp;ndash; Charles Robinson (source)</description></item><item><title>Debugging Detective</title><link>/posts/debugging-detective/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/posts/debugging-detective/</guid><description>Debugging is like being the detective in a crime movie where you are also the murderer.
+&amp;ndash; Filipe Fortes (source)</description></item><item><title>German Bureaucracy</title><link>/posts/german-bureaucracy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/posts/german-bureaucracy/</guid><description>&amp;ldquo;I wonder,&amp;rdquo; Gertrude said, as the workers left with the IT clock, &amp;ldquo;if Thomas Jefferson, that American president, had as much trouble keeping his clocks in sync.&amp;rdquo;
 &amp;ldquo;He had the benefit of American ingenuity,&amp;rdquo; Hanzo said. &amp;ldquo;We only have German bureaucracy to work with.&amp;rdquo;
-&amp;ndash; Erik Gern (source)</description>
-    </item>
-    
-    <item>
-      <title>If you don&#39;t know what Linux is...</title>
-      <link>/posts/if-you-dont-know-what-linux-is/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/if-you-dont-know-what-linux-is/</guid>
-      <description>If you don&amp;rsquo;t know what Linux is, Linux is a bit like punching yourself in the face. When someone says &amp;ldquo;Why are you punching yourself in the face?&amp;rdquo;, you go &amp;ldquo;Well it&amp;rsquo;s free.&amp;rdquo;
-&amp;ndash; Matt Parker (source)</description>
-    </item>
-    
-    <item>
-      <title>Machines &amp; People</title>
-      <link>/posts/machines-and-people/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/machines-and-people/</guid>
-      <description>Machines should work. People should think.
-&amp;ndash; IBM commercial (source)</description>
-    </item>
-    
-    <item>
-      <title>Mother&#39;s Maiden Name</title>
-      <link>/posts/mothers-maiden-name/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/mothers-maiden-name/</guid>
-      <description>Credit card company: What&amp;rsquo;s your mother&amp;rsquo;s maiden name?
+&amp;ndash; Erik Gern (source)</description></item><item><title>If you don't know what Linux is...</title><link>/posts/if-you-dont-know-what-linux-is/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/posts/if-you-dont-know-what-linux-is/</guid><description>If you don&amp;rsquo;t know what Linux is, Linux is a bit like punching yourself in the face. When someone says &amp;ldquo;Why are you punching yourself in the face?&amp;rdquo;, you go &amp;ldquo;Well it&amp;rsquo;s free.&amp;rdquo;
+&amp;ndash; Matt Parker (source)</description></item><item><title>Machines &amp; People</title><link>/posts/machines-and-people/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/posts/machines-and-people/</guid><description>Machines should work. People should think.
+&amp;ndash; IBM commercial (source)</description></item><item><title>Mother's Maiden Name</title><link>/posts/mothers-maiden-name/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/posts/mothers-maiden-name/</guid><description>Credit card company: What&amp;rsquo;s your mother&amp;rsquo;s maiden name?
 Me: Donkey Kong Bumper Boat.
 Them: Uh, yes. What?
 Me: I&amp;rsquo;m in security.&amp;quot;
-&amp;ndash; Steve Werby (source)</description>
-    </item>
-    
-    <item>
-      <title>Programming In IRL</title>
-      <link>/posts/programming-in-irl/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/programming-in-irl/</guid>
-      <description>Programming IRL:
+&amp;ndash; Steve Werby (source)</description></item><item><title>Programming In IRL</title><link>/posts/programming-in-irl/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/posts/programming-in-irl/</guid><description>Programming IRL:
 &amp;ldquo;ETA for an apple pie?&amp;rdquo;
 &amp;ldquo;2h&amp;rdquo;
 8h later:
 &amp;ldquo;Where is it?&amp;rdquo;
 &amp;ldquo;You didn&amp;rsquo;t tell me the dishes were dirty and you lacked an oven.&amp;rdquo;
-&amp;ndash; Rick Fillion (source)</description>
-    </item>
-    
-    <item>
-      <title>Real Hackers Defend</title>
-      <link>/posts/real-hackers-defend/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/real-hackers-defend/</guid>
-      <description>Real hackers defend. Anyone can use a tool, exploit a vuln, and phish a meatpuppet. Offense is like Candy Crush. Defense is like chess.
-&amp;ndash; Info Security Jerk (source)</description>
-    </item>
-    
-    <item>
-      <title>Remy’s Law of Enterprise Software</title>
-      <link>/posts/remys-law-of-enterprise-software/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/remys-law-of-enterprise-software/</guid>
-      <description>If a piece of software is described in any way, shape or form with the word “enterprise” it’s a piece of garbage.
-&amp;ndash; Remy Porter (source)</description>
-    </item>
-    
-    <item>
-      <title>Root Privs</title>
-      <link>/posts/root-privs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/root-privs/</guid>
-      <description>To err is human. To really fuck up takes root privs.
-&amp;ndash; Unknown (source)</description>
-    </item>
-    
-    <item>
-      <title>Solid State Drive</title>
-      <link>/posts/solid-state-drive/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/solid-state-drive/</guid>
-      <description>If I heat my solid state hard drive until it becomes a gaseous state hard drive, would that enable cloud computing?
-&amp;ndash; lazymangaka (source)</description>
-    </item>
-    
-  </channel>
-</rss>
+&amp;ndash; Rick Fillion (source)</description></item><item><title>Real Hackers Defend</title><link>/posts/real-hackers-defend/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/posts/real-hackers-defend/</guid><description>Real hackers defend. Anyone can use a tool, exploit a vuln, and phish a meatpuppet. Offense is like Candy Crush. Defense is like chess.
+&amp;ndash; Info Security Jerk (source)</description></item><item><title>Remy’s Law of Enterprise Software</title><link>/posts/remys-law-of-enterprise-software/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/posts/remys-law-of-enterprise-software/</guid><description>If a piece of software is described in any way, shape or form with the word “enterprise” it’s a piece of garbage.
+&amp;ndash; Remy Porter (source)</description></item><item><title>Root Privs</title><link>/posts/root-privs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/posts/root-privs/</guid><description>To err is human. To really fuck up takes root privs.
+&amp;ndash; Unknown (source)</description></item><item><title>Solid State Drive</title><link>/posts/solid-state-drive/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/posts/solid-state-drive/</guid><description>If I heat my solid state hard drive until it becomes a gaseous state hard drive, would that enable cloud computing?
+&amp;ndash; lazymangaka (source)</description></item></channel></rss>
