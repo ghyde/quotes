@@ -3,7 +3,8 @@ title: "Until The Learn to Respect Us…"
 tags: []
 ---
 
-**The experts say:** that it would be great if bushes and trees moved out of our way, but until they learn to respect us, we must use force.
+**The experts say:** that it would be great if bushes and trees moved out of our
+way, but until they learn to respect us, we must use force.
 
 -- woot! ([source][source])
 

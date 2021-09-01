@@ -3,7 +3,8 @@ title: "Strategy And Character"
 tags: [Military]
 ---
 
-Leadership is a potent combination of strategy and character. But if you must be without one, be without the strategy.
+Leadership is a potent combination of strategy and character. But if you must be
+without one, be without the strategy.
 
 -- Gen. Norman Schwarzkopf, Jr. ([source][source])
 

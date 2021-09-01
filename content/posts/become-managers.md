@@ -3,7 +3,8 @@ title: "Become Managers"
 tags: [Programming]
 ---
 
-Programmers who refuse to keep exploring will stagnate, forget their joy and lose the will to program (and become managers).
+Programmers who refuse to keep exploring will stagnate, forget their joy and
+lose the will to program (and become managers).
 
 -- M Haverbeke ([source][source])
 

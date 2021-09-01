@@ -3,7 +3,8 @@ title: "Great Simplifiers"
 tags: [Military]
 ---
 
-Great leaders are almost always great simplifiers who can cut through the argument, debate, and doubt to offer a solution everybody can understand.
+Great leaders are almost always great simplifiers who can cut through the
+argument, debate, and doubt to offer a solution everybody can understand.
 
 -- Gen. Colin Powell ([source][source])
 

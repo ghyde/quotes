@@ -3,7 +3,8 @@ title: "This Is Our Day"
 tags: [Religion, Technology]
 ---
 
-I believe that God has opened up these treasures of intelligence [technology] to enhance his purposes on the earth.
+I believe that God has opened up these treasures of intelligence [technology] to
+enhance his purposes on the earth.
 
 -- James E. Faust ([source][source])
 

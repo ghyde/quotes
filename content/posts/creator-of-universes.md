@@ -3,7 +3,8 @@ title: "Creator of Universes"
 tags: [Programming]
 ---
 
-The computer programmer is a creator of universes for which he alone is responsible.
+The computer programmer is a creator of universes for which he alone is
+responsible.
 
 -- Joseph Weizenbaum ([source][source])
 

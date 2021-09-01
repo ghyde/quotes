@@ -3,7 +3,8 @@ title: "Bought Some Shoes From A Drug Dealer"
 tags: [Comedy]
 ---
 
-I bought some shoes from a drug dealer... I don't know what he laced them with, but I've been tripping all day.
+I bought some shoes from a drug dealer... I don't know what he laced them with,
+but I've been tripping all day.
 
 -- Unknown ([source][source])
 

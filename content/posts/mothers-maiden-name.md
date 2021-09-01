@@ -3,13 +3,13 @@ title: "Mother's Maiden Name"
 tags: [Computer, Security]
 ---
 
-Credit card company: What's your mother's maiden name?
+**Credit card company:** What's your mother's maiden name?
 
-Me: Donkey Kong Bumper Boat.
+**Me:** Donkey Kong Bumper Boat.
 
-Them: Uh, yes. What?
+**Them:** Uh, yes. What?
 
-Me: I'm in security."
+**Me:** I'm in security."
 
 -- Steve Werby ([source][source])
 

@@ -3,7 +3,8 @@ title: "Solid State Drive"
 tags: [Computer]
 ---
 
-If I heat my solid state hard drive until it becomes a gaseous state hard drive, would that enable cloud computing?
+If I heat my solid state hard drive until it becomes a gaseous state hard drive,
+would that enable cloud computing?
 
 -- lazymangaka ([source][source])
 

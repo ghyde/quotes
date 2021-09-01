@@ -3,7 +3,8 @@ title: "Software Complexity"
 tags: [Programming]
 ---
 
-So much complexity in software comes from trying to make one thing do two things.
+So much complexity in software comes from trying to make one thing do two
+things.
 
 -- Ryan Singer ([source][source])
 

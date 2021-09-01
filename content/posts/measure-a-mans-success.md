@@ -3,7 +3,8 @@ title: "Measure A Man's Success"
 tags: [Military]
 ---
 
-I don't measure a man's success by how high he climbs but how high he bounces when he hits bottom.
+I don't measure a man's success by how high he climbs but how high he bounces
+when he hits bottom.
 
 -- Gen. George S. Patton Jr. ([source][source])
 

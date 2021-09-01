@@ -3,7 +3,10 @@ title: "Algorithms"
 tags: [Computer, Programming]
 ---
 
-I'm very aware that the word "algorithm" makes about 85% of people want to gouge their own eyes, right? But I mentioned this at a tech conference that I was at to someone, and they agreed with me. But they added that it makes the remaining 15% of people mildly aroused.
+I'm very aware that the word "algorithm" makes about 85% of people want to gouge
+their own eyes, right? But I mentioned this at a tech conference that I was at
+to someone, and they agreed with me. But they added that it makes the remaining
+15% of people mildly aroused.
 
 -- Hannah Fry ([source][source])
 

@@ -3,7 +3,8 @@ title: "Specs"
 tags: [Programming]
 ---
 
-Writing specs is like flossing: everybody agrees that it's a good thing, but nobody does it.
+Writing specs is like flossing: everybody agrees that it's a good thing, but
+nobody does it.
 
 -- Joel Spolsky ([source][source])
 

@@ -3,7 +3,8 @@ title: "Motivation"
 tags: [Military]
 ---
 
-Motivation is the art of getting people to do what you want them to do because they want to do it.
+Motivation is the art of getting people to do what you want them to do because
+they want to do it.
 
 -- Gen. Dwight D. Eisenhower ([source][source])
 

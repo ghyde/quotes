@@ -3,8 +3,8 @@ title: "Python - \"import *\""
 tags: [Programming]
 ---
 
-Put "True, False = False, True" into your python libraries. People
-will soon learn to not "import *" from them...
+Put "True, False = False, True" into your python libraries. People will soon
+learn to not "import *" from them...
 
 -- The Rev Johnny Healey ([source][source])
 

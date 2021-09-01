@@ -3,7 +3,8 @@ title: "Mansplain"
 tags: []
 ---
 
-Oxford has added "mansplain" to its dictionaries, and let me tell you why that's significant…
+Oxford has added "mansplain" to its dictionaries, and let me tell you why that's
+significant…
 
 -- Josh Gondelman ([source][source])
 
